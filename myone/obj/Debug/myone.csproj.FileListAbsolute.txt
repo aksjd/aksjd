@@ -1,0 +1,7 @@
+E:\C#\myone\myone\myone\bin\Debug\myone.exe.config
+E:\C#\myone\myone\myone\bin\Debug\myone.exe
+E:\C#\myone\myone\myone\bin\Debug\myone.pdb
+E:\C#\myone\myone\myone\obj\Debug\myone.csprojAssemblyReference.cache
+E:\C#\myone\myone\myone\obj\Debug\myone.csproj.CoreCompileInputs.cache
+E:\C#\myone\myone\myone\obj\Debug\myone.exe
+E:\C#\myone\myone\myone\obj\Debug\myone.pdb
